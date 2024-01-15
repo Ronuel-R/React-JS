@@ -1,0 +1,26 @@
+{
+  "sample_announcement_dict": [
+    { "value": "", "title": "Announcement 1" },
+    { "value": "", "title": "Announcement 2" },
+    { "value": "", "title": "Announcement 3" },
+    { "value": "", "title": "Announcement 4" },
+    { "value": "", "title": "Announcement 5" },
+    { "value": "", "title": "Announcement 6" },
+    { "value": "", "title": "Announcement 7" },
+    { "value": "", "title": "Announcement 8" },
+    { "value": "", "title": "Announcement 9" },
+    { "value": "", "title": "Announcement 10" }
+  ],
+  "sample_id_dict": [
+    { "img": "../../../Media/Logo.png", "value": "1" },
+    { "img": "../../../Media/Logo.png", "value": "2" },
+    { "img": "../../../Media/Logo.png", "value": "3" },
+    { "img": "../../../Media/Logo.png", "value": "4" },
+    { "img": "../../../Media/Logo.png", "value": "5" },
+    { "img": "../../../Media/Logo.png", "value": "6" },
+    { "img": "../../../Media/Logo.png", "value": "7" },
+    { "img": "../../../Media/Logo.png", "value": "8" },
+    { "img": "../../../Media/Logo.png", "value": "9" },
+    { "img": "../../../Media/Logo.png", "value": "10" }
+  ]
+}

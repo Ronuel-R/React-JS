@@ -1,0 +1,24 @@
+.login-container {
+  text-align: center;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: 14.3%;
+}
+
+.logo-image {
+  width: 200px;
+  height: 200px;
+}
+.buttons-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 16px;
+}
+.button {
+  background-color: red;
+  color: white;
+}

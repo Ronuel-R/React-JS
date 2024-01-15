@@ -1,0 +1,50 @@
+.underline-input {
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+  width: 28%;
+  padding: 8px;
+  margin-bottom: 16px;
+  margin-right: 20px;
+}
+#register-email {
+  width: 68%;
+}
+.register-phone-code {
+  width: 17%;
+}
+#register-number {
+  width: 45%;
+}
+.register-container h2 {
+  font-family: "Lexend Exa";
+  text-align: center;
+}
+.buttons-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 16px;
+}
+.button {
+  background-color: red;
+  color: white;
+}
+.register-container {
+  text-align: center;
+  left: 0;
+  right: 0;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.existing-user {
+  opacity: 0.5;
+}
+.send-code {
+  background-color: rgba(173, 0, 0, 0.945);
+  color: white;
+  margin-bottom: 4%;
+}
