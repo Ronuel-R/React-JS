@@ -1,0 +1,30 @@
+.register-container h2 {
+  font-family: "Lexend Exa";
+  text-align: center;
+}
+.buttons-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 16px;
+}
+.button {
+  background-color: red;
+  color: white;
+}
+.register-container {
+  left: 0;
+  right: 0;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 8.5%;
+}
+.existing-user {
+  opacity: 0.5;
+}
+.send-code {
+  background-color: rgba(173, 0, 0, 0.945);
+  color: white;
+  margin-bottom: 4%;
+}
